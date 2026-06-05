@@ -1,1 +1,1 @@
-# website-pp-alfalah
+Sistem Informasi Pesantren Modern berbasis web yang dibangun menggunakan React, Express, PostgreSQL, dan Prisma. Mendukung manajemen santri, wali santri, guru, pembayaran, nilai, pengumuman, serta dashboard berbasis role dengan autentikasi JWT.
